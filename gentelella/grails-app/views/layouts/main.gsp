@@ -36,7 +36,7 @@
                 <ul class="nav side-menu">
                   <li><a><i class="fa fa-cog"></i> Administra&ccedil;&atilde;o <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><g:link action="index" controller="configuracao">Configura&ccedil;&otilde;es de tempo de execu&ccedil;&atilde;o</g:link></li>
+                      <li><g:link action="index" controller="home">Configura&ccedil;&otilde;es de tempo de execu&ccedil;&atilde;o</g:link></li>
                       <li><a href="index.html">Dashboard</a></li>
                       <li><a href="index2.html">Dashboard2</a></li>
                       <li><a href="index3.html">Dashboard3</a></li>
