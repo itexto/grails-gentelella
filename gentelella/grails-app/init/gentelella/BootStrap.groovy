@@ -1,4 +1,4 @@
-package gentelella
+package help
 
 class BootStrap {
 
