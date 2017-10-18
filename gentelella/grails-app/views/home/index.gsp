@@ -4,6 +4,6 @@
     <meta name="layout" content="main"/>
   </head>
   <body>
-    <h1>Fam&iacute;lia Help</h1>
+    <h1>Grails Gentelella</h1>
   </body>
 </html>

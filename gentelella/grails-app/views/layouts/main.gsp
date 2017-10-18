@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title><g:layoutTitle default="Fam&iacute;lia Help"/></title>
+    <title><g:layoutTitle default="Grails Gentellela"/></title>
 
     <asset:stylesheet src="application.css"/>
   </head>
