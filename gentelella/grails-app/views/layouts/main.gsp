@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title><g:layoutTitle default="Grails Gentellela"/></title>
+    <title><g:layoutTitle default="Fam&iacute;lia Help"/></title>
 
     <asset:stylesheet src="application.css"/>
   </head>
@@ -32,7 +32,7 @@
                 <ul class="nav side-menu">
                   <li><a><i class="fa fa-cog"></i> Administra&ccedil;&atilde;o <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><g:link action="index" controller="home">Configura&ccedil;&otilde;es de tempo de execu&ccedil;&atilde;o</g:link></li>
+                      <li><g:link action="index" controller="configuracao">Configura&ccedil;&otilde;es de tempo de execu&ccedil;&atilde;o</g:link></li>
                       <li><a href="index.html">Dashboard</a></li>
                       <li><a href="index2.html">Dashboard2</a></li>
                     </ul>
@@ -51,16 +51,10 @@
                       <li><a href="morisjs.html">Moris JS</a></li>
                     </ul>
                   </li>
-
                 </ul>
               </div>
-
-
             </div>
             <!-- /sidebar menu -->
-
-
-
           </div>
         </div>
 
@@ -96,9 +90,7 @@
 
         <!-- page content -->
         <div class="right_col" role="main">
-
               <g:layoutBody/>
-
         </div>
         <!-- /page content -->
       </div>
