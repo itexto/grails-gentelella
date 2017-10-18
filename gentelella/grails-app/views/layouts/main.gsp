@@ -18,14 +18,10 @@
         <div class="col-md-3 left_col">
           <div class="left_col scroll-view">
             <div class="navbar nav_title" style="border: 0;">
-              <g:link controller="home" class="site_title"> <span>Fam&iacute;lia Help</span></g:link>
+              <g:link controller="home" class="site_title"> <span>Grails Gentelella</span></g:link>
             </div>
 
             <div class="clearfix"></div>
-
-
-
-            <!-- /menu profile quick info -->
 
             <br />
 
@@ -39,7 +35,6 @@
                       <li><g:link action="index" controller="home">Configura&ccedil;&otilde;es de tempo de execu&ccedil;&atilde;o</g:link></li>
                       <li><a href="index.html">Dashboard</a></li>
                       <li><a href="index2.html">Dashboard2</a></li>
-                      <li><a href="index3.html">Dashboard3</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-comments-o"></i> Media&ccedil;&otilde;es <span class="fa fa-chevron-down"></span></a>
@@ -47,9 +42,6 @@
                       <li><a href="form.html">General Form</a></li>
                       <li><a href="form_advanced.html">Advanced Components</a></li>
                       <li><a href="form_validation.html">Form Validation</a></li>
-                      <li><a href="form_wizards.html">Form Wizard</a></li>
-                      <li><a href="form_upload.html">Form Upload</a></li>
-                      <li><a href="form_buttons.html">Form Buttons</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-bar-chart-o"></i> Dashboard <span class="fa fa-chevron-down"></span></a>
@@ -57,8 +49,6 @@
                       <li><a href="chartjs.html">Chart JS</a></li>
                       <li><a href="chartjs2.html">Chart JS2</a></li>
                       <li><a href="morisjs.html">Moris JS</a></li>
-                      <li><a href="echarts.html">ECharts</a></li>
-                      <li><a href="other_charts.html">Other Charts</a></li>
                     </ul>
                   </li>
 
