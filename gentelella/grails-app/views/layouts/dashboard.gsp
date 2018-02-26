@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title><g:layoutTitle default="Fam&iacute;lia Help"/></title>
+    <title><g:layoutTitle default="Gentelella Alela"/></title>
 
     <asset:stylesheet src="application.css"/>
   </head>
@@ -30,14 +30,14 @@
               <div class="menu_section">
 
                 <ul class="nav side-menu">
-                  <li><a><i class="fa fa-cog"></i> Administra&ccedil;&atilde;o <span class="fa fa-chevron-down"></span></a>
+                  <li><a><i class="fa fa-cog"></i> Admin <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><g:link action="index" controller="configuracao">Configura&ccedil;&otilde;es de tempo de execu&ccedil;&atilde;o</g:link></li>
+
                       <li><a href="index.html">Dashboard</a></li>
                       <li><a href="index2.html">Dashboard2</a></li>
                     </ul>
                   </li>
-                  <li><a><i class="fa fa-comments-o"></i> Media&ccedil;&otilde;es <span class="fa fa-chevron-down"></span></a>
+                  <li><a><i class="fa fa-comments-o"></i> Another menu <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="form.html">General Form</a></li>
                       <li><a href="form_advanced.html">Advanced Components</a></li>
@@ -69,14 +69,14 @@
               <ul class="nav navbar-nav navbar-right">
                 <li class="">
                   <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                    Nome do usu&aacute;rio
+                    User name
                     <span class=" fa fa-angle-down"></span>
                   </a>
                   <ul class="dropdown-menu dropdown-usermenu pull-right">
-                    <li><a href="javascript:;"> Perfil</a></li>
+                    <li><a href="javascript:;"> Profile</a></li>
                     <li>
                       <a href="javascript:;">
-                        <span>Configurações</span>
+                        <span>Configuration</span>
                       </a>
                     </li>
                     <li><a href="login.html"><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
